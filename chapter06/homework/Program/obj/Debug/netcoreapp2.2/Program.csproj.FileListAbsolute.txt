@@ -1,0 +1,14 @@
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Program/bin/Debug/netcoreapp2.2/Program.deps.json
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Program/bin/Debug/netcoreapp2.2/Program.runtimeconfig.json
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Program/bin/Debug/netcoreapp2.2/Program.runtimeconfig.dev.json
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Program/bin/Debug/netcoreapp2.2/Program.dll
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Program/bin/Debug/netcoreapp2.2/Program.pdb
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Program/bin/Debug/netcoreapp2.2/Library.dll
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Program/bin/Debug/netcoreapp2.2/Library.pdb
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Program/obj/Debug/netcoreapp2.2/Program.csprojAssemblyReference.cache
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Program/obj/Debug/netcoreapp2.2/Program.csproj.CoreCompileInputs.cache
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Program/obj/Debug/netcoreapp2.2/Program.AssemblyInfoInputs.cache
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Program/obj/Debug/netcoreapp2.2/Program.AssemblyInfo.cs
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Program/obj/Debug/netcoreapp2.2/Program.csproj.CopyComplete
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Program/obj/Debug/netcoreapp2.2/Program.dll
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Program/obj/Debug/netcoreapp2.2/Program.pdb

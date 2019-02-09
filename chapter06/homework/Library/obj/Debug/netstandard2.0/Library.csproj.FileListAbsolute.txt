@@ -1,0 +1,9 @@
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Library/bin/Debug/netstandard2.0/Library.deps.json
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Library/bin/Debug/netstandard2.0/Library.dll
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Library/bin/Debug/netstandard2.0/Library.pdb
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Library/obj/Debug/netstandard2.0/Library.csprojAssemblyReference.cache
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Library/obj/Debug/netstandard2.0/Library.csproj.CoreCompileInputs.cache
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Library/obj/Debug/netstandard2.0/Library.AssemblyInfoInputs.cache
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Library/obj/Debug/netstandard2.0/Library.AssemblyInfo.cs
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Library/obj/Debug/netstandard2.0/Library.dll
+/home/eugene/Dropbox/WEBDEV/c#/book/chapter06/homework/Library/obj/Debug/netstandard2.0/Library.pdb

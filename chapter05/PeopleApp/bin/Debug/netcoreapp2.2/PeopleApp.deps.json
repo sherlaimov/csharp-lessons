@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "255ec614c0c9c8c4ca9264b89dc7b7c40ff7d8e6"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "PeopleApp/1.0.0": {
+        "dependencies": {
+          "PacktLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PeopleApp.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      },
+      "ObjectDumper/1.0.0.12": {
+        "runtime": {
+          "lib/net35-Client/ObjectDumper.dll": {
+            "assemblyVersion": "1.0.0.12",
+            "fileVersion": "1.0.0.12"
+          }
+        }
+      },
+      "PacktLibrary/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "ObjectDumper": "1.0.0.12"
+        },
+        "runtime": {
+          "PacktLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeopleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jmVyoEyk0In8r+AObYQyFKVFm7uSRzE0XSHSbEtBJcZDMV6DqJoyB4FLcHwprPVhAh826so0db3DIKXVnpGoPA==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "ObjectDumper/1.0.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pShdVZMCp2YNB12DlRSSDB7fae5Yf++iELQ5UHe2U0rr1iCp5wV0OMl/EOHKFV2Wq3KDaa3emLG4vvcpUGONvw==",
+      "path": "objectdumper/1.0.0.12",
+      "hashPath": "objectdumper.1.0.0.12.nupkg.sha512"
+    },
+    "PacktLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
